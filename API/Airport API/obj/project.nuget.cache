@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iQQaUwNzsWOK/Kq27aYj+aLDCQ2IaBxjaRqoSous3Xq+AYmzMzsoXsnVv0ciu0WXUnUfg+YeKH5OGE/VrHmnig==",
+  "success": true,
+  "projectFilePath": "D:\\uni\\4th semester\\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\\Εργασια\\API\\Airport API\\Airport API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angan\\.nuget\\packages\\npgsql\\6.0.5\\npgsql.6.0.5.nupkg.sha512",
+    "C:\\Users\\angan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
